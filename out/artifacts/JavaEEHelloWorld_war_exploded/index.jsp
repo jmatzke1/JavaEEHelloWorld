@@ -39,12 +39,12 @@
   </div>
 
 <div class="container">
+    This is a change to test more pushes from IntelliJ
   <i class="fa fa-shield"></i> normal<br>
   <i class="fa fa-shield fa-rotate-90"></i> fa-rotate-90<br>
   <i class="fa fa-shield fa-rotate-180"></i> fa-rotate-180<br>
   <i class="fa fa-shield fa-rotate-270"></i> fa-rotate-270<br>
   <i class="fa fa-shield fa-flip-horizontal"></i> fa-flip-horizontal<br>
-  <i class="fa fa-shield fa-flip-vertical"></i> fa-flip-vertical
 </div>
 
   </body>
